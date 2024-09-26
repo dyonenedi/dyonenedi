@@ -13,6 +13,7 @@
 ![CCSHARP](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c&logoColor=9d5bf4)&nbsp;
 ![blazor](https://img.shields.io/badge/-blazor-0D1117?style=for-the-badge&logo=blazor&logoColor=512BD4)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=777BB4)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=777BB4)&nbsp;
 ![Yii](https://img.shields.io/badge/-yii-0D1117?style=for-the-badge&logo=yii&logoColor=#40B3D8)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=f3941e)&nbsp;
 ![ORACLE](https://img.shields.io/badge/-ORACLE-0D1117?style=for-the-badge&logo=ORACLE&logoColor=e4292d)&nbsp;
